@@ -1,0 +1,13 @@
+
+    body {
+        background-color: #5d3a3a;
+    }
+    
+    div {
+        padding: 0;
+        margin: -8px -8px;
+        width: 200px;
+        height: 199px;
+        border: black solid 1px;
+        background-color: #b5e0ba;
+    }
